@@ -1,0 +1,24 @@
+
+------------------------- topGOdata object -------------------------
+
+ Description:
+   -  My project 
+
+ Ontology:
+   -  CC 
+
+ 3283 available genes (all genes from the array):
+   - symbol:  GO_1 GO_2 GO_3 GO_4 GO_5  ...
+   - 69  significant genes. 
+
+ 1480 feasible genes (genes that can be used in the analysis):
+   - symbol:  GO_1 GO_2 GO_4 GO_5 GO_9  ...
+   - 26  significant genes. 
+
+ GO graph (nodes with at least  1  genes):
+   - a graph with directed edges
+   - number of nodes = 208 
+   - number of edges = 352 
+
+------------------------- topGOdata object -------------------------
+
